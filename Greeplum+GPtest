@@ -1,8 +1,8 @@
 https://www.cnblogs.com/grapelet520/p/11304543.html
-1、安装说明
-1.1、环境说明
+##1、安装说明
+###1.1、环境说明
 
-1.2、集群介绍
+###1.2、集群介绍
 5台虚拟机，1个master节点，4个segment的集群，示例：
 ···
 wuxiang-test-1（master）
